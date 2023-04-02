@@ -1,4 +1,4 @@
-👋 Hey! I'm Viktor Kolev, a developer from Bulgaria.
+### 👋 Heyy! I'm Viktor Kolev, a bulgarian programmer.
 
 ## **🦈 About me:**
 * Viktor Kolev, 21 years
