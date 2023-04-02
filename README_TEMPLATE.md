@@ -1,10 +1,10 @@
-👋 Hey! I'm Viktor Kolev, a developer from Bulgaria.
+### 👋 Heyy! I'm Viktor Kolev, a bulgarian programmer.
 
 ## **🦈 About me:**
-* Viktor Kolev, 21 years
+* Viktor Kolev, %{age} years
 * Software engineer
 * Currently studying in University.
-* 7 Years, 5 Months and 23 Days since my first commit.
+* %{experience}
 <hr>
 
 ## **🧱 My tech stack:**
