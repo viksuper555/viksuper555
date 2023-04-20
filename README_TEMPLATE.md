@@ -3,7 +3,7 @@
 ## **🦈 About me:**
 * Viktor Kolev, %{age} years
 * Software engineer
-* Currently studying in University.
+* Currently studying in the Technical university of Sofia.
 * %{experience}
 <hr>
 
