@@ -4,7 +4,7 @@
 * Viktor Kolev, 21 years
 * Software engineer
 * Currently studying in the Technical university of Sofia.
-* 7 Years, 8 Months and 7 Days since my first commit.
+* 7 Years, 8 Months and 8 Days since my first commit.
 <hr>
 
 ## **🧱 My tech stack:**
