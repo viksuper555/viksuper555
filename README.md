@@ -4,7 +4,7 @@
 * Viktor Kolev, 22 years
 * Software engineer
 * Currently studying in the Technical university of Sofia.
-* 8 Years, 4 Months and 17 Days since my first commit.
+* 8 Years, 4 Months and 18 Days since my first commit.
 <hr>
 
 ## **🧱 My tech stack:**
@@ -44,7 +44,7 @@
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-**Discord**: viksuper555#1970
+**Discord**: viksuper555
 <hr>
 
 [![Viktor Kolev's GitHub stats](https://github-readme-stats.vercel.app/api?username=viksuper555&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
