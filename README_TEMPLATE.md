@@ -44,7 +44,7 @@
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-**Discord**: viksuper555#1970
+**Discord**: viksuper555
 <hr>
 
 [![Viktor Kolev's GitHub stats](https://github-readme-stats.vercel.app/api?username=viksuper555&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
