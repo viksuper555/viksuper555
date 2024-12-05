@@ -4,7 +4,7 @@
 * Viktor Kolev, 23 years
 * Software engineer
 * BSc in Computer Science.
-* 9 Years, 1 Month and 26 Days since my first commit.
+* 9 Years, 1 Month and 27 Days since my first commit.
 <hr>
 
 ## **🧱 My tech stack:**
