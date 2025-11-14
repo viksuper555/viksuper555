@@ -3,7 +3,7 @@
 ## **🦈 About me:**
 * Software engineer & entrepreneur
 * BSc in Computer Science
-* Been on Github for 10 Years, 1 Month and 2 Days.
+* Been on Github for 10 Years, 1 Month and 3 Days.
 <hr>
 
 ## **🧱 My tech stack:**
