@@ -5,8 +5,9 @@
 * BSc in Computer Science
 * %{experience}
 <hr>
+Alt (work) account - <a href="https://github.com/viktor-hubflow/"> viktor-hubflow</a>
 
-## **🧱 My tech stack:**
+**🧱 My tech stack:**
 # Fluent
 [![](https://skillicons.dev/icons?i=py,dotnet,flask,azure,git,jenkins,docker)](https://skillicons.dev)
 
