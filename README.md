@@ -3,7 +3,7 @@
 ## **🦈 About me:**
 * Software engineer & entrepreneur
 * BSc in Computer Science
-* Been on Github for 11 Years, 0 Months and 25 Days.
+* Been on Github for 11 Years, 0 Months and 26 Days.
 <hr>
 Alt (work) account - <a href="https://github.com/viktor-hubflow/"> viktor-hubflow</a>
 
